@@ -4,9 +4,9 @@ body {
 }
 
 header {
+  background-image: url("http://images.akamai.steamusercontent.com/ugc/351647207501844714/54E5254B746088200EDA78E9E5922717ED4323D4/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C268:268&composite-to%3D*%2C*%7C268%3A268&background-color=black");
+  background-repeat: no-repeat;
   height: 300px; 
+  background-position: center; 
 }
 
-#header_background {
-	
-}
